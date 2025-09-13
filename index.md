@@ -13,6 +13,9 @@ Berikut ini adalah Koleksi yang dimiliki
 6. [As Long As the Lemon Trees Grow](ebook/As Long As the Lemon Trees Grow.pdf) - Zoulfa Katouh (2022)
 7. [Pada Senja Yang Membawamu Pergi](ebook/Pada Senja yg membawamu pergi.pdf) - Boy Candra (2016)
 8. [Laskar Pelangi](ebook/Novel LASKAR PELANGI.pdf) - Andrea Hirata (2005)
+9. [Tentang Kamu](ebook/Tere liye - tentang kamu.pdf) - Tere Liye (2016)
+10. [Marmut Merah Jambu](ebook/marmut-merah-jambu.pdf) - Raditya Dika (2010)
+11. [Resume Kuliah Tamu](ebook/13040123140158_Kelas D_ Nikita Catriona_Resume Kuliah Tamu.pdf) - Nikita Catriona (2025)
 
 ---
 
