@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki
 4. [51 Perempuan Pencerah Dunia](ebook/51 Perempuan Pencerah Dunia.pdf) - Tetty Yukesti (2015)
 5. [100 Cerita Rakyat Nusantara](ebook/100 Cerita Rakyat Nusantara by Dian Kristiani.pdf) - Dian Kristiani (2014)
 6. [As Long As the Lemon Trees Grow](ebook/As Long As the Lemon Trees Grow.pdf) - Zoulfa Katouh (2022)
-7. [Pada Senja Yang Membawamu Pergi](ebook/Pada Senja yg membawamu pergi.pdf) - Boy Candra (2016)
+7. [Pada Senja Yang Membawamu Pergi](ebook/Boy Candra - Pada Senja yg membawamu pergi.pdf) - Boy Candra (2016)
 8. [Laskar Pelangi](ebook/Novel LASKAR PELANGI.pdf) - Andrea Hirata (2005)
 9. [Tentang Kamu](ebook/Tere liye - tentang kamu.pdf) - Tere Liye (2016)
 10. [Marmut Merah Jambu](ebook/marmut merah jambu.pdf) - Raditya Dika (2005)
