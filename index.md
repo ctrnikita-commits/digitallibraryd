@@ -18,5 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki
 12. [Resume Kuliah Tamu](ebook/13040123140158_Kelas D_ Nikita Catriona_Resume Kuliah Tamu.pdf) - Nikita Catriona (2025)
 
 ---
-
+[webti/halaman1.html]
 *Powered by Github Pages*
