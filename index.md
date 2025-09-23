@@ -27,5 +27,6 @@ Berikut ini adalah Koleksi yang dimiliki
     <a href="halaman6.html">Halaman 6</a>|
     <a href="halaman7.html">Halaman 7</a>
       <a href="https://ctrnikita-commits.github.io/digitallibraryd/">Index</a>
+
     
 *Powered by Github Pages*
