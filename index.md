@@ -19,7 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki
 
 ---
 [Halaman 1](webti/halaman1.html)  [Halaman 2](webti/halaman2.html) [Halaman 3](webti/halaman 3.html) [Halaman 4](webti/halaman 4.html) [Halaman 5](webti/halaman 5.html) [Halaman 6](webti/halaman 6.html) [Halaman 7](webti/halaman 7.html)
-<href="https://ctrnikita-commits.github.io/digitallibraryd/">Index</a>|
+<hr><p><a href="https://ctrnikita-commits.github.io/digitallibraryd/">Index</a>|
      
 
     
