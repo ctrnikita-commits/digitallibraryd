@@ -18,6 +18,14 @@ Berikut ini adalah Koleksi yang dimiliki
 12. [Resume Kuliah Tamu](ebook/13040123140158_Kelas D_ Nikita Catriona_Resume Kuliah Tamu.pdf) - Nikita Catriona (2025)
 
 ---
-[Index](https://ctrnikita-commits.github.io/digitallibraryd/) [Halaman 1](webti/halaman1.html) [Halaman 2](webti/halaman2.html) [Halaman 3](webti/halaman3.html) [Halaman 4](webti/halaman4.html) [Halaman 5](webti/halaman5.html) [Halaman 6](webti/halaman6.html) [Halaman 7](webti/halaman7.html) 
+<nav style="margin-bottom:20px;">
+    <a href="halaman1.html">Halaman 1</a> |
+    <a href="halaman2.html">Halaman 2</a> |
+    <a href="halaman3.html">Halaman 3</a> |
+    <a href="halaman4.html">Halaman 4</a> |
+    <a href="halaman5.html">Halaman 5</a> |
+    <a href="halaman6.html">Halaman 6</a> |
+    <a href="halaman7.html">Halaman 7</a>
+      <a href="https://naiyanash.github.io/digitallibrary/">Index</a>
 
 *Powered by Github Pages*
