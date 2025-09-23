@@ -26,6 +26,6 @@ Berikut ini adalah Koleksi yang dimiliki
     <a href="halaman5.html">Halaman 5</a> |
     <a href="halaman6.html">Halaman 6</a> |
     <a href="halaman7.html">Halaman 7</a>
-      <a href="https://naiyanash.github.io/digitallibrary/">Index</a>
+      <a href="https://ctrnikita-commits.github.io/digitallibraryd/">Index</a>
 
 *Powered by Github Pages*
